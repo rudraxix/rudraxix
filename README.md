@@ -6,18 +6,18 @@ Computer Science undergraduate specializing in Game Development and AI/ML. Focus
 
 ### Technical Stack
 
-* Languages: C++, Python, JavaScript, Java, C#
-* Game Dev & 3D: Blender, Unity concepts
-* AI & Simulation: Reinforcement Learning, EPANET, DWSIM, PyTorch
-* Tools: Git, Node.js, PowerShell
+* **Languages:** Python, C#, C++, SQL
+* **AI, ML & CV:** PyTorch, Reinforcement Learning, GANs, SRCNN, OpenCV, Fuzzy Logic
+* **Simulation & 3D:** Unity, Unity DOTS, EPANET (Hydraulic Modeling)
+* **Engineering:** Linux/WSL, Git, Flask, Data Normalization, Pipeline Architectures
 
 ---
 
 ### Selected Projects
 
-* [Project_CampusConnect](https://github.com/rudraix/Project_CampusConnect): Campus resource platform built with JavaScript.
-* [SIH-Tamohar](https://github.com/rudraix/SIH-Tamohar): Python-based utility developed for hackathon challenges.
-* [Online_Toxicity_Detection_Using_AI](https://github.com/rudraix/Online_Toxicity_Detection_Using_AI): AI-driven text moderation tool.
+* **[AquaFlow (EPICS)](https://github.com/rudraxix)** — Engineered an automated data pipeline extracting structural hydraulic features from EPANET simulations, training a MultiOutput Random Forest classifier and an ANN regression model for multi-node anomaly detection.
+* **[TAMOHAR (SIH)](https://github.com/rudraxix)** — Developed a deep-learning enhancement pipeline utilizing Retinex-Net, Auto-Encoders, and a custom sliding-window tiling algorithm to process macro-scale, low-light imagery from Chandrayaan-2's OHRC sensor.
+* **[Project Paradox](https://github.com/rudraxix)** — Coded an isolated runtime logic controller in Unity using Fuzzy Logic and Reinforcement Learning concepts to dynamically evaluate live player parameters in real-time.
 
 ---
 
