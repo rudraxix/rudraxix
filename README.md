@@ -10,14 +10,6 @@ I am Rudra Shrivastava from India. Computer Science undergraduate specializing i
 
 ---
 
-| Metric | Value |
-| :--- | :--- |
-| **Primary Focus** | Game Architecture & AI/ML |
-| **Profile** | `rudraxix` |
-| **Status** | Active (2026) |
-
----
-
 ### Technical Stack
 
 <p>
