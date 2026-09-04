@@ -27,9 +27,9 @@ I am Rudra Shrivastava from India. Computer Science undergraduate specializing i
 
 ### Selected Projects
 
-* **[AquaFlow (EPICS)](https://github.com/rudraxix)** — Engineered an automated data pipeline extracting structural hydraulic features from EPANET simulations, training a MultiOutput Random Forest classifier and an ANN regression model for multi-node anomaly detection.
+* **[AquaFlow (EPICS)](https://github.com/SAM-DEV007/AquaFlow)** — Engineered an automated data pipeline extracting structural hydraulic features from EPANET simulations, training a MultiOutput Random Forest classifier and an ANN regression model for multi-node anomaly detection.
 * **[TAMOHAR (SIH)](https://github.com/rudraxix)** — Developed a deep-learning enhancement pipeline utilizing Retinex-Net, Auto-Encoders, and a custom sliding-window tiling algorithm to process macro-scale, low-light imagery from Chandrayaan-2's OHRC sensor.
-* **[Project Paradox](https://github.com/rudraxix)** — Coded an isolated runtime logic controller in Unity using Fuzzy Logic and Reinforcement Learning concepts to dynamically evaluate live player parameters in real-time.
+* **[Project Paradox](https://github.com/rudraxix/Project_Paradox)** — Coded an isolated runtime logic controller in Unity using Fuzzy Logic and Reinforcement Learning concepts to dynamically evaluate live player parameters in real-time.
 
 ---
 
