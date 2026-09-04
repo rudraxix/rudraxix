@@ -6,7 +6,9 @@ I am Rudra Shrivastava from India. Computer Science undergraduate specializing i
 
 ### GitHub Stats
 
-![Metrics](https://github-metrics.vercel.app/api?username=rudraxix&template=classic&base=header,activity,community,repositories&plugins=notepads&config_timezone=Asia%2FKolkata)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraxix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 ---
 
