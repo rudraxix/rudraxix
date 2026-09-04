@@ -6,9 +6,11 @@ I am Rudra Shrivastava from India. Computer Science undergraduate specializing i
 
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraxix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+| Metric | Value |
+| :--- | :--- |
+| **Primary Focus** | Game Architecture & AI/ML |
+| **Profile** | `rudraxix` |
+| **Status** | Active (2026) |
 
 ---
 
