@@ -1,15 +1,27 @@
-### Rudra Shrivastava
+### Hi there
 
-Computer Science undergraduate specializing in Game Development and AI/ML. Focused on building interactive systems, simulations, and algorithmic applications.
+I am Rudra Shrivastava from India. Computer Science undergraduate specializing in Game Development and AI/ML.
+
+---
+
+### GitHub Stats
+
+![Metrics](https://github-metrics.vercel.app/api?username=rudraxix&template=classic&base=header,activity,community,repositories&plugins=notepads&config_timezone=Asia%2FKolkata)
 
 ---
 
 ### Technical Stack
 
-* **Languages:** Python, C#, C++, SQL
-* **AI, ML & CV:** PyTorch, Reinforcement Learning, GANs, SRCNN, OpenCV, Fuzzy Logic
-* **Simulation & 3D:** Unity, Unity DOTS, EPANET (Hydraulic Modeling)
-* **Engineering:** Linux/WSL, Git, Flask, Data Normalization, Pipeline Architectures
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
 ---
 
@@ -21,8 +33,16 @@ Computer Science undergraduate specializing in Game Development and AI/ML. Focus
 
 ---
 
-### GitHub Stats
+### Reach out to me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rudraix&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraix&layout=compact&theme=default)
+<p>
+  <a href="https://github.com/rudraxix">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rudra-shrivastava-69-rr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/hanmaiv/datasets">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
