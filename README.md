@@ -1,6 +1,6 @@
 ### Hi there
 
-I am Rudra Shrivastava from India. Computer Science undergraduate specializing in Game Development and AI/ML.
+I am Rudra Shrivastava from India and I'm a Computer Science undergraduate specializing in Game Development, AI/ML and Simulation Systems.
 
 ---
 
